@@ -10,21 +10,6 @@ Domain Layer → Contains business logic
 
 Data Layer → Communicates with the GitHub API
 
-# 📦 Project Structure
-project-root/
-│
-├── README.md
-├── .gitignore
-└── src/
-    └── githubactivity/
-        ├── main.py
-        ├── ui/
-        │   └── cli.py
-        ├── domain/
-        │   └── services.py
-        └── data/
-            └── repository.py
-
 
 # 🚀 How to Run
 From the src directory:
@@ -55,10 +40,10 @@ This project follows a Layered Architecture pattern:
 
 # 🔧 Technologies Used
 
--Python 3.12
--argparse
--urllib
--GitHub REST API
+--Python 3.12
+--argparse
+--urllib
+--GitHub REST API
 
 
 
