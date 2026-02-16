@@ -43,17 +43,17 @@ Network errors → Connection issues
 # 🏗 Architecture
 
 This project follows a Layered Architecture pattern:
-Clear separation of concerns
-Business logic isolated from UI
-External API access isolated from domain logic
-This improves maintainability, readability, and scalability.
+-Clear separation of concerns
+-Business logic isolated from UI
+-External API access isolated from domain logic
+-This improves maintainability, readability, and scalability.
 
 # 🔧 Technologies Used
 
-Python 3.12
-argparse
-urllib
-GitHub REST API
+-Python 3.12
+-argparse
+-urllib
+-GitHub REST API
 
 
 
