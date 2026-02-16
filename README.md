@@ -25,7 +25,7 @@ githubactivity/
 From the src directory:
     python -m githubactivity.main <username>
 
-#🧠 What It Does
+# 🧠 What It Does
 
 Calls the GitHub API endpoint:
 /users/{username}/events
@@ -48,7 +48,7 @@ Business logic isolated from UI
 External API access isolated from domain logic
 This improves maintainability, readability, and scalability.
 
-#🔧 Technologies Used
+# 🔧 Technologies Used
 
 Python 3.12
 argparse
