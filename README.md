@@ -11,15 +11,20 @@ Domain Layer → Contains business logic
 Data Layer → Communicates with the GitHub API
 
 # 📦 Project Structure
-githubactivity/
+project-root/
 │
-├── main.py
-├── ui/
-│   └── cli.py
-├── domain/
-│   └── services.py
-└── data/
-    └── repository.py
+├── README.md
+├── .gitignore
+└── src/
+    └── githubactivity/
+        ├── main.py
+        ├── ui/
+        │   └── cli.py
+        ├── domain/
+        │   └── services.py
+        └── data/
+            └── repository.py
+
 
 # 🚀 How to Run
 From the src directory:
