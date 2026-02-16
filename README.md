@@ -10,6 +10,8 @@ Domain Layer → Contains business logic
 
 Data Layer → Communicates with the GitHub API
 
+Look up this link to make this project yourself! -> https://roadmap.sh/projects/github-user-activity
+
 
 # 🚀 How to Run
 From the src directory:
